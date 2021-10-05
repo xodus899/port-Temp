@@ -107,6 +107,10 @@ a:visited, a:hover, a:active {
   padding-top:50px;
 }
 
+.contact-right-mobile,.portfolio-right-mobile {
+  display:none;
+}
+
 @media only screen and (max-width: 650px) {
   .juniorDevDiv p,.navbar {
     font-size:1rem;
@@ -122,5 +126,15 @@ a:visited, a:hover, a:active {
   .portfolioContainer div {
     margin:1%;
     width:48%;
+  }
+
+  .contact-right,.portfolio-right {
+    display:none;
+  }
+
+  .contact-right-mobile,.portfolio-right-mobile {
+    display: block;
+    float: right;
+    padding: 30px 2px;
   }
 }
