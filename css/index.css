@@ -142,4 +142,7 @@ a:visited, a:hover, a:active {
     float: right;
     padding: 30px 1px;
   }
+  .portfolioContainer img {
+    width:100%;
+  }
 }
