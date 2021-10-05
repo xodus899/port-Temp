@@ -135,6 +135,6 @@ a:visited, a:hover, a:active {
   .contact-right-mobile,.portfolio-right-mobile {
     display: block;
     float: right;
-    padding: 30px 2px;
+    padding: 30px 1px;
   }
 }
