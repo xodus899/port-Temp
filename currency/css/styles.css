@@ -1,0 +1,25 @@
+body {
+  margin:0 auto;
+  font-family: 'Inria Serif', serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  width:100%;
+  text-align:center;
+}
+
+div.currencyImages {
+  text-align:center;
+}
+
+.currencyImages img {
+  width:49%;
+}
+
+.title {
+  width:100%;
+}
