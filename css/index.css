@@ -109,6 +109,7 @@ a:visited, a:hover, a:active {
 
 .contact-right-mobile,.portfolio-right-mobile {
   display:none;
+  margin-right:2px;
 }
 
 @media only screen and (max-width: 650px) {
@@ -118,6 +119,7 @@ a:visited, a:hover, a:active {
 
   .contact-right, .portfolio-right, .name {
     padding:30px 2px;
+    margin-left: 2px;
   }
   .portfolioContainer {
     margin-bottom:30px;
