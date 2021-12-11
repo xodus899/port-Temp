@@ -4,3 +4,5 @@ const getYear = () => {
   let element = document.getElementById("copyright");
   return element.innerHTML = `Copyright C.Justice ${year}`;
 };
+
+getYear();
