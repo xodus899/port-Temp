@@ -1,8 +1,5 @@
 const getYear = () => {
-  let date = new Date();
-  let year = date.getFullYear();
-  let element = document.getElementById("copyright");
-  return element.innerHTML = `Copyright C.Justice ${year}`;
-};
+  return document.getElementById("footer").innerHTML = ` Copyright C.Justice ${new Date().getFullYear()}`
+}
 
-getYear();
+getYear()
