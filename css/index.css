@@ -151,6 +151,7 @@ a:active {
     display: block;
     float: right;
     padding: 30px 1px;
+    font-size:0.9rem;
   }
   .portfolioContainer img {
     width: 100%;
