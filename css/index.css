@@ -130,7 +130,7 @@ a:active {
   .name {
     padding: 30px 2px;
     margin-left: 2px;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
   }
   .portfolioContainer {
     margin-bottom: 30px;
@@ -151,7 +151,7 @@ a:active {
     display: block;
     float: right;
     padding: 30px 1px;
-    font-size:0.9rem;
+    font-size:0.8rem;
   }
   .portfolioContainer img {
     width: 100%;
