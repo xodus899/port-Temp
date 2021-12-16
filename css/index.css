@@ -122,7 +122,7 @@ a:active {
 @media only screen and (max-width: 650px) {
   .juniorDevDiv p,
   .navbar {
-    font-size: 1rem;
+   font-size: 1rem;
   }
 
   .contact-right,
@@ -130,6 +130,7 @@ a:active {
   .name {
     padding: 30px 2px;
     margin-left: 2px;
+    font-size: 0.9rem;
   }
   .portfolioContainer {
     margin-bottom: 30px;
