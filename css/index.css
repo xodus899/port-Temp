@@ -106,11 +106,10 @@ a:active {
 .fCopyrght {
   background: #1d3557;
   color: white;
-  height: 100px;
-  text-align: center;
-}
-#copyright {
-  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
 }
 
 .contact-right-mobile,
@@ -118,7 +117,6 @@ a:active {
   display: none;
   margin-right: 2px;
 }
-
 @media only screen and (max-width: 650px) {
   .juniorDevDiv p,
   .navbar {
@@ -130,7 +128,7 @@ a:active {
   .name {
     padding: 30px 2px;
     margin-left: 2px;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
   }
   .portfolioContainer {
     margin-bottom: 30px;
@@ -151,9 +149,17 @@ a:active {
     display: block;
     float: right;
     padding: 30px 1px;
-    font-size:0.8rem;
+    font-size:0.7rem;
   }
   .portfolioContainer img {
     width: 100%;
+  }
+
+  #copyright, #contact {
+    font-size:0.8rem;
+  }
+
+  #portfolio h2 {
+    font-size:1.5rem;
   }
 }
