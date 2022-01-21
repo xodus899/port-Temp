@@ -5,7 +5,7 @@ getYear();
 
 
 const scroll = () => {
-  document.querySelector(".scrollToTop").addEventListener('click', () => {
+  document.querySelector(".scroll-to-top").addEventListener('click', () => {
     window.scrollTo({
       top:0,
       behavior:'smooth'
