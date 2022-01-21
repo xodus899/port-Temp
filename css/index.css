@@ -117,6 +117,10 @@ a:active {
   display: none;
   margin-right: 2px;
 }
+
+.scrollToTop {
+  cursor:pointer;
+}
 @media only screen and (max-width: 650px) {
   .juniorDevDiv p,
   .navbar {
