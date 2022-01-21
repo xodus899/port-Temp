@@ -120,10 +120,6 @@ body {
   gap: 20px;
 }
 
-.scroll-to-top {
-  cursor: pointer;
-}
-
 .footer-copyright {
   background: #1d3557;
   color: white;
