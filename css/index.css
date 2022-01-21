@@ -33,7 +33,7 @@ body {
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   overscroll-behavior: none;
   text-transform: uppercase;
-  width: 100vw;
+  width: 100%;
 }
 
 .navbar-container {
