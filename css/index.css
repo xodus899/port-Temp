@@ -142,12 +142,8 @@ body {
 @media screen and (min-width: 2560px) {
   html, body {
       min-height: 100vh;
-    }
-    * {
-      box-sizing: border-box;
-      margin: inherit;
-      padding: 0;
   }
+
   .portfolio-projects div img {
     width:300px;
     height:auto;
@@ -155,6 +151,11 @@ body {
   
   .portfolio-links, .portfolio-links-left {
     margin:2rem;
+  }
+  
+  .portfolio-container {
+    height:50vh;
+    
   }
 }
 
