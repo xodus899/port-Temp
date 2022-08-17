@@ -145,7 +145,7 @@ body {
     }
     * {
       box-sizing: border-box;
-      margin: revert;
+      margin: inherit;
       padding: 0;
   }
   .portfolio-projects div img {
