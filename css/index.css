@@ -148,6 +148,10 @@ body {
       margin: revert;
       padding: 0;
   }
+  .portfolio-projects div img {
+    width:500px;
+    height:auto;
+  }
 }
 
 
