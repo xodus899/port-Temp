@@ -112,6 +112,15 @@ body {
   background: #457b9d;
   gap: 20px;
   padding:20px 0;
+  margin-top: auto;
+}
+
+.portfolio-projects div {
+    display: flex;
+    flex: 1;
+    flex-basis: 33%;
+    align-items: center;
+    justify-content: center;
 }
 
 .social-icons {
@@ -128,6 +137,11 @@ body {
   align-items: center;
   justify-content: center;
   padding: 10px;
+}
+
+media screen and (min-width: 2560px)
+html, body {
+    min-height: 100vh;
 }
 
 @media only screen and (max-width: 650px) {
