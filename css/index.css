@@ -152,6 +152,10 @@ body {
     width:300px;
     height:auto;
   }
+  
+  .portfolio-links, .portfolio-links-left {
+    margin:2rem;
+  }
 }
 
 
