@@ -60,7 +60,7 @@ body {
   background: linear-gradient(to bottom, #0e7490,  #1e40af);
   justify-content: center;
   padding: 100px;
-  width:100vw;
+  width:100%;
 }
 
 .main-img h1 {
